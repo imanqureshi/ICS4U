@@ -2,6 +2,7 @@ package Test;
 
 public abstract class Alpha {
 	private int value = 4;
+	private int val2 = 2;
 
 	public Alpha() {
 	}
